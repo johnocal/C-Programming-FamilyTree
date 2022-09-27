@@ -1,0 +1,4 @@
+﻿  FamilyTree.c
+C:\Users\home\source\repos\FamilyTree\FamilyTree\FamilyTree.c(161,15): warning C4047: '=': 'member **' differs in levels of indirection from 'member *'
+C:\Users\home\source\repos\FamilyTree\FamilyTree\FamilyTree.c(255,15): warning C4047: '=': 'member **' differs in levels of indirection from 'member *'
+  FamilyTree.vcxproj -> C:\Users\home\source\repos\FamilyTree\x64\Debug\FamilyTree.exe
